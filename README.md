@@ -1,0 +1,1 @@
+# plugins-responsive-cookie-consent
