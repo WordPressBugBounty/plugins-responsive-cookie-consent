@@ -3,7 +3,7 @@ Contributors: James Koussertari
 Tags: responsive cookie consent, responsive cookie banner, cookie consent, cookie banner, cookie law, cookie notice, EU cookie law
 Requires at least: 3.1
 Tested up to: 6.6.2
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,9 @@ There are no FAQ's.
 3. Settings
 
 == Changelog ==
+
+= 2.1 =
+* Compatible with WordPress v6.6.2
 
 = 2.0 =
 * Fixed small bug in v1.9
@@ -90,6 +93,9 @@ There are no FAQ's.
 * This was the first version
 
 == Upgrade Notice ==
+
+= 2.1 =
+Compatible with WordPress v6.6.2
 
 = 2.0 =
 Fixed small bug in v1.9

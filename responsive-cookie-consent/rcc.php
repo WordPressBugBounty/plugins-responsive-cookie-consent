@@ -3,7 +3,7 @@
 * Plugin Name: Responsive Cookie Consent
 * Plugin URI: http://www.jameskoussertari.co.uk
 * Description: A really simple, lightweight, responsive cookie consent plugin for WordPress.
-* Version: 2.0
+* Version: 2.1
 * Author: James Koussertari
 * Author URI: http://www.jameskoussertari.co.uk
 * Text Domain: responsive-cookie-consent
